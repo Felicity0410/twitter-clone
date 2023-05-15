@@ -10,7 +10,7 @@ import { LoadingSpinner } from "./LoadingSpinner";
 type Tweet = {
   id: string;
   content: string;
-  createAt: Date;
+  createAt?: Date;
   likeCount: number;
   likedByMe: boolean;
   user: { id: string; name: string | null; image: string | null };
@@ -21,7 +21,7 @@ type InfiniteTweetsListProps = {
   isError: boolean;
   hasMore: boolean | undefined;
   fetchNewTweets: () => Promise<unknown>;
-  tweets?: Tweet[];
+  tweets?: Tweet[] | undefined;
 };
 
 export function InfiniteTweetList({
