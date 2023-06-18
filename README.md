@@ -2,6 +2,7 @@
 
 <img width="1321" alt="Screenshot 2023-06-18 at 5 16 02 pm" src="https://github.com/Felicity0410/twitter-clone/assets/112750633/f3649c69-df89-4380-9045-b4524eb1d5ec">
 
+<img width="1296" alt="Screenshot 2023-06-18 at 6 08 45 pm" src="https://github.com/Felicity0410/twitter-clone/assets/112750633/23f6c3ce-75d0-4d83-b369-88bd003893bc">
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
